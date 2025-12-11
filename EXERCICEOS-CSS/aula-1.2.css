@@ -1,0 +1,21 @@
+.div-1{
+     background-color: rgb(2, 250, 2);
+     font-family: Verdana;
+}     
+.div-1{
+    color: rgb(230, 7, 7);
+    font-family: Verdana;
+}
+li {
+    padding: 10px;
+}
+
+.div-lista {
+          background-color: blue;
+          font-family: Verdana;
+} 
+
+.div-lista li {
+    color: rgb(250, 225, 2);
+    font-family: Verdana;
+}

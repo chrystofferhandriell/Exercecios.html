@@ -1,0 +1,49 @@
+
+
+ body {
+      background-color: rgb(203, 15, 228);
+       font-family:Verdana;
+}
+p {
+   color: rgb(238, 255, 0);
+   font-family: Arial;
+}
+ 
+#titulo-principal{ 
+            
+            color: rgb(250, 3, 3);
+            font-size: 24px;
+            
+}
+
+.dark{
+      font-weight:bold;
+
+}
+.solo{
+     font-weight: bold;
+}
+ 
+* {
+   margin-left: 20px;
+
+}
+
+ li {
+    color: rgb(238, 6, 6);
+
+    border: 1px solid rgb(12, 12, 12)
+
+}
+#principal{
+         color: rgb(0, 255, 42);
+          font-size: 24px;
+}
+
+.velozes{
+      color: aqua;
+      font-family: Verdana;
+
+}
+    
+

@@ -1,0 +1,17 @@
+div {
+     background-color: rgb(238, 255, 0);
+     font-family: Verdana;
+}
+div p {
+    color: rgb(255, 0, 0);
+    font-family: Verdana;
+}
+/*colocando cor nas letras e o espaço envlta*/
+.minha-pra{
+    background-color: blue;
+    font-family: Verdana;
+}
+h1 {
+    color: rgb(255, 0, 0);
+}
+/*colocando cor no conteudo*/
