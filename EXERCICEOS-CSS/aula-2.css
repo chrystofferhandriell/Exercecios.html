@@ -1,0 +1,11 @@
+h1 {
+    color: yellow;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+li {
+    color: blue;
+    font-size: 20px;
+    font-weight: 100;
+}

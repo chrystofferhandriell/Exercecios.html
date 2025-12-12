@@ -1,0 +1,12 @@
+.texto-pequeno {
+               color: yellow;
+               font-size: 50%;
+}
+.texto-grande {
+              font-size:  150%;
+}
+.solo {
+       background-color: aqua;
+       font-size: 36px;
+       font-size: 5em;
+}
