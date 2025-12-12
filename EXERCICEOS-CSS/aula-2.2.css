@@ -1,0 +1,64 @@
+.solo {
+       background-color: aqua;
+       border-color: rgb(8, 8, 8);
+       border: solid;
+       width: 1cm;
+       height: 1cm;
+}
+.solo-1 {
+         width: 20mm;
+         height: 20mm;
+         background-color: rgb(111, 0, 255);
+       border-color: blue;
+       border: solid;
+}
+.solo-2{
+       width: 1in;
+       height: 1in;
+       background-color: chartreuse;
+       border-color: black;
+       border: solid;
+}
+.solo-3 {
+        width: 48px;
+        height: 48px;
+        background-color: chocolate;
+        border-color: black;
+        border: solid;
+}
+
+.dark{
+    background-color: rgb(235, 252, 4);
+      font-size: 1em;
+}
+.dark-1 {
+     background-color: chocolate;
+        font-size: 2rem;
+}
+
+.dark-2 {
+     background-color: blueviolet;
+        height: 3lh;
+}
+.dark-3{
+     background-color: aqua;
+        width: 10vw;
+
+}
+
+.dark-4 {
+     background-color: aquamarine;
+      height: 20vh;
+}
+
+.dark-5 {
+    background-color: chartreuse;
+         width: 5vmin;
+         height: 5vmin;
+}
+
+.dark-6 {
+         background-color: blue;
+        width: 7vmax;
+        height: 7vmax;
+}
