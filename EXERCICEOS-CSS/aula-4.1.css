@@ -1,0 +1,15 @@
+table,th,tr,td {
+       border: solid 1px; color: black;
+}
+.cor-1 {
+       background-color: #00ffff;
+}
+.cor-2 {
+       background-color: #ff0000;
+}
+.cor-3 {
+       background-color: #0000ff;
+}
+button:hover {
+             background-color: #fbff00;
+}
