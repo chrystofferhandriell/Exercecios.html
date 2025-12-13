@@ -1,0 +1,33 @@
+* {
+    margin: 150px;
+}
+div {
+    margin: 10px;
+    border-style: solid;
+    padding: 3px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.cor-1 {
+       background-color: #0afaf0;
+}
+.cor-2 {
+       background-color:#00ff;
+}
+.cor-3 {
+       background-color:#ff000f;
+}
+.cor-4 {
+      background-color: rgb(255, 0, 221);
+}
+.cor-5 {
+       background-color: rgb(229, 255, 0);
+}
+.cor-6 {
+       background-color: rgb(132, 0, 255);
+}
+.cor-7 {
+       background-color: rgba(255, 0, 0, 0.4);
+}
