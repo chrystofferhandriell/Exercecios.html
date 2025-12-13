@@ -1,0 +1,17 @@
+       /* CSS longhand */
+.solo {
+       background-color: rgb(208, 255, 0);
+       background-image: url();
+       background-repeat: repeat-y;
+       background-attachment: fixed;
+       background-position: 50% 50%; 
+
+       border: 1px;  
+       border-style: solid;
+       border-color: black;
+} 
+    /* CSS  shorthand */
+div{
+    background: blue url() repeat-y fixed 50% 50% ;
+    border: 1px solid black ;
+}
