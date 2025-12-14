@@ -1,0 +1,54 @@
+
+p {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    display: block;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+a {
+    background-color: rgb(255, 230, 0);
+    width: 100px;
+    height: 100px;
+    display: inline;
+    border: 1px solid black;
+    margin-top: 5px;
+
+}
+span {
+      background-color: chartreuse;
+      width: 100px;
+      height: 100px;
+      display: inline;
+      border: 1px solid black;
+      margin: 5px;
+}
+div {
+     background-color: blueviolet;
+     width: 100px;
+     height: 100px;
+     display: block;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.solo {
+       background-color: blue;
+     display: inline-block;
+     margin-top: 20px;
+     text-align: center;
+     line-height: 30px;
+}
+
+.inline-block-element {
+   display: inline-block;   /* combinação de inline + block */
+      width: 120px;
+      height: 80px;             /* mantém altura própria */
+      margin: 8px;
+      background-color: #4da3ff;
+      color: #fff;
+      text-align: center;
+      line-height: 80px;        /* centraliza o texto verticalmente */
+      font-weight: bold;
+
+}
