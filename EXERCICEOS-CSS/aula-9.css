@@ -1,0 +1,29 @@
+.box {
+    background-color: aqua;
+    padding: 30px;
+    margin: 30px ;
+    border:5px solid black ;
+    text-align: center;
+
+}
+.inner-box {
+            background-color: chartreuse;
+            padding: 30px;
+            margin: 30px;
+            border: 5px solid black;
+            text-align: center;
+        
+}
+.outer-box {
+            background-color: blueviolet;
+            padding: 30px;
+            margin: 30px;
+            border: 5px solid black;
+}
+
+p {
+    background-color: aqua;
+    padding: 30px;
+    margin: 30px;
+    border: 5px solid black;
+}
