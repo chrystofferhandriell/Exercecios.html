@@ -1,0 +1,13 @@
+a:hover {
+          color: red;
+          color: aqua;
+}
+a:visited {
+           color: rgb(250, 2, 2);
+}
+
+div:empty{
+          background:rgb(20, 220, 30) ;
+          width: 100px;
+          height: 100px;
+}
