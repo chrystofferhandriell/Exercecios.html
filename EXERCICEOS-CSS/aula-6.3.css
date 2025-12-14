@@ -1,0 +1,14 @@
+h1 {
+    color: aqua !important;
+    color:red
+}
+.paragrafo-1 {
+              background-color: blue;
+              color: chartreuse!important;
+              color: black;
+}
+.paragrafo {
+            background-color: blueviolet;
+            color: rgb(3, 255, 3)!important;
+            color: aqua;
+}
